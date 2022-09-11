@@ -1,0 +1,7 @@
+C:\Users\KONDZIO\source\repos\Group_Server\bin\Release\Group_Server.exe.config
+C:\Users\KONDZIO\source\repos\Group_Server\bin\Release\Group_Server.exe
+C:\Users\KONDZIO\source\repos\Group_Server\bin\Release\Group_Server.pdb
+C:\Users\KONDZIO\source\repos\Group_Server\obj\Release\Group_Server.csprojAssemblyReference.cache
+C:\Users\KONDZIO\source\repos\Group_Server\obj\Release\Group_Server.csproj.CoreCompileInputs.cache
+C:\Users\KONDZIO\source\repos\Group_Server\obj\Release\Group_Server.exe
+C:\Users\KONDZIO\source\repos\Group_Server\obj\Release\Group_Server.pdb

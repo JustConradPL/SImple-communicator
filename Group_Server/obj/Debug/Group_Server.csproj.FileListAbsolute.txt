@@ -1,0 +1,13 @@
+C:\Users\KONDZIO\source\repos\Group_Server\bin\Debug\Group_Server.exe.config
+C:\Users\KONDZIO\source\repos\Group_Server\bin\Debug\Group_Server.exe
+C:\Users\KONDZIO\source\repos\Group_Server\bin\Debug\Group_Server.pdb
+C:\Users\KONDZIO\source\repos\Group_Server\obj\Debug\Group_Server.csprojAssemblyReference.cache
+C:\Users\KONDZIO\source\repos\Group_Server\obj\Debug\Group_Server.csproj.CoreCompileInputs.cache
+C:\Users\KONDZIO\source\repos\Group_Server\obj\Debug\Group_Server.exe
+C:\Users\KONDZIO\source\repos\Group_Server\obj\Debug\Group_Server.pdb
+D:\programowanie\Projects\Group_Server\bin\Debug\Group_Server.exe.config
+D:\programowanie\Projects\Group_Server\bin\Debug\Group_Server.exe
+D:\programowanie\Projects\Group_Server\bin\Debug\Group_Server.pdb
+D:\programowanie\Projects\Group_Server\obj\Debug\Group_Server.csproj.CoreCompileInputs.cache
+D:\programowanie\Projects\Group_Server\obj\Debug\Group_Server.exe
+D:\programowanie\Projects\Group_Server\obj\Debug\Group_Server.pdb
